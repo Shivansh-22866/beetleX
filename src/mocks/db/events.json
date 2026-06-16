@@ -1,0 +1,53 @@
+[
+  {
+    "id": "e1",
+    "title": "HackFusion 2026",
+    "tagline": "Build the future in 48 hours",
+    "description": "A national-level hackathon focused on AI and Web3 innovation.",
+    "rules": "Original work only. Teams of 2-4 members.",
+    "eligibility": "Students and early professionals",
+    "start_date": "2026-07-10T09:00:00Z",
+    "end_date": "2026-07-12T18:00:00Z",
+    "registration_open": "2026-06-01T00:00:00Z",
+    "team_min_size": 2,
+    "team_max_size": 4,
+    "participant_count": 120,
+    "status": "upcoming",
+    "resources": [{ "label": "Devpost", "url": "https://devpost.com" }],
+    "sponsors": [{ "name": "TechCorp", "url": "https://techcorp.com", "logo_url": "https://techcorp.com/logo.png" }]
+  },
+  {
+    "id": "e2",
+    "title": "CodeSprint Pune",
+    "tagline": "Speed. Logic. Precision.",
+    "description": "Competitive programming contest for algorithm enthusiasts.",
+    "rules": "Individual participation only.",
+    "eligibility": "All engineering students",
+    "start_date": "2026-08-05T10:00:00Z",
+    "end_date": "2026-08-05T18:00:00Z",
+    "registration_open": "2026-07-01T00:00:00Z",
+    "team_min_size": 1,
+    "team_max_size": 1,
+    "participant_count": 200,
+    "status": "upcoming",
+    "resources": [{ "label": "HackerRank", "url": "https://hackerrank.com" }],
+    "sponsors": [{ "name": "CodeBase", "url": "https://codebase.com", "logo_url": "https://codebase.com/logo.png" }]
+  },
+  {
+    "id": "e3",
+    "title": "InnovateX Summit",
+    "tagline": "Ideas that scale",
+    "description": "Startup pitching + prototype showcase event.",
+    "rules": "Pitch deck required.",
+    "eligibility": "Open to all innovators",
+    "start_date": "2026-09-15T09:00:00Z",
+    "end_date": "2026-09-17T18:00:00Z",
+    "registration_open": "2026-08-01T00:00:00Z",
+    "team_min_size": 2,
+    "team_max_size": 5,
+    "participant_count": 150,
+    "status": "upcoming",
+    "resources": [{ "label": "Event Portal", "url": "https://innovatex.com" }],
+    "sponsors": [{ "name": "StartupHub", "url": "https://startuphub.com", "logo_url": "https://startuphub.com/logo.png" }]
+  }
+]

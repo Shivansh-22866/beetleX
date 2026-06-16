@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t1",
+    "event_id": "e1",
+    "name": "AI/ML",
+    "description": "Artificial Intelligence & Machine Learning"
+  },
+  {
+    "id": "t2",
+    "event_id": "e1",
+    "name": "Web3",
+    "description": "Blockchain & Decentralized Apps"
+  },
+  {
+    "id": "t3",
+    "event_id": "e2",
+    "name": "Algorithms",
+    "description": "DSA and Competitive Programming"
+  },
+  {
+    "id": "t4",
+    "event_id": "e2",
+    "name": "Problem Solving",
+    "description": "Logical reasoning challenges"
+  },
+  {
+    "id": "t5",
+    "event_id": "e3",
+    "name": "Startup Pitch",
+    "description": "Business model presentations"
+  },
+  {
+    "id": "t6",
+    "event_id": "e3",
+    "name": "Prototype Demo",
+    "description": "Working product demonstrations"
+  }
+]

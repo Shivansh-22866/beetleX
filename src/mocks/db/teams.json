@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tm1",
+    "event_id": "e1",
+    "track_id": "t1",
+    "leader_id": "u1",
+    "members": ["u1", "u2", "u3"],
+    "invite_code": "HACK-A1B2",
+    "summary": "AI-powered student assistant",
+    "created_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "id": "tm2",
+    "event_id": "e1",
+    "track_id": "t2",
+    "leader_id": "u5",
+    "members": ["u5", "u6"],
+    "invite_code": "WEB3-X9Z1",
+    "summary": "Decentralized certificate system",
+    "created_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "id": "tm3",
+    "event_id": "e3",
+    "track_id": "t5",
+    "leader_id": "u9",
+    "members": ["u9", "u10", "u11"],
+    "invite_code": "PITCH-77QW",
+    "summary": "SaaS for student networking",
+    "created_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "id": "tm4",
+    "event_id": "e3",
+    "track_id": "t6",
+    "leader_id": "u12",
+    "members": ["u12", "u13"],
+    "invite_code": "DEMO-PL34",
+    "summary": "Smart attendance system using vision AI",
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "id": "tm5",
+    "event_id": "e2",
+    "track_id": "t3",
+    "leader_id": "u14",
+    "members": ["u14", "u15"],
+    "invite_code": "CP-9KLM",
+    "summary": "Competitive programming duo",
+    "created_at": "2026-06-14T10:00:00Z"
+  }
+]

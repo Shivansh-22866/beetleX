@@ -1,0 +1,122 @@
+[
+  {
+    "id": "u1",
+    "email": "aisha.shah@example.com",
+    "name": "Aisha Shah",
+    "college_or_org": "COEP Pune",
+    "role": "participant",
+    "created_at": "2026-05-01T10:00:00Z"
+  },
+  {
+    "id": "u2",
+    "email": "rahul.mehta@example.com",
+    "name": "Rahul Mehta",
+    "college_or_org": "PCCOE",
+    "role": "participant",
+    "created_at": "2026-05-02T10:00:00Z"
+  },
+  {
+    "id": "u3",
+    "email": "neha.patil@example.com",
+    "name": "Neha Patil",
+    "college_or_org": "VIT Pune",
+    "role": "participant",
+    "created_at": "2026-05-03T10:00:00Z"
+  },
+  {
+    "id": "u4",
+    "email": "arjun.kulkarni@example.com",
+    "name": "Arjun Kulkarni",
+    "college_or_org": "MIT-WPU",
+    "role": "judge",
+    "created_at": "2026-05-04T10:00:00Z"
+  },
+  {
+    "id": "u5",
+    "email": "priya.iyer@example.com",
+    "name": "Priya Iyer",
+    "college_or_org": "COEP Pune",
+    "role": "participant",
+    "created_at": "2026-05-05T10:00:00Z"
+  },
+  {
+    "id": "u6",
+    "email": "siddharth.jain@example.com",
+    "name": "Siddharth Jain",
+    "college_or_org": "PCCOE",
+    "role": "participant",
+    "created_at": "2026-05-06T10:00:00Z"
+  },
+  {
+    "id": "u7",
+    "email": "tanvi.desai@example.com",
+    "name": "Tanvi Desai",
+    "college_or_org": "VIT Pune",
+    "role": "organizer",
+    "created_at": "2026-05-07T10:00:00Z"
+  },
+  {
+    "id": "u8",
+    "email": "om.pawar@example.com",
+    "name": "Om Pawar",
+    "college_or_org": "DY Patil",
+    "role": "participant",
+    "created_at": "2026-05-08T10:00:00Z"
+  },
+  {
+    "id": "u9",
+    "email": "kavya.nair@example.com",
+    "name": "Kavya Nair",
+    "college_or_org": "COEP Pune",
+    "role": "participant",
+    "created_at": "2026-05-09T10:00:00Z"
+  },
+  {
+    "id": "u10",
+    "email": "yash.sharma@example.com",
+    "name": "Yash Sharma",
+    "college_or_org": "MIT-WPU",
+    "role": "participant",
+    "created_at": "2026-05-10T10:00:00Z"
+  },
+  {
+    "id": "u11",
+    "email": "riya.singh@example.com",
+    "name": "Riya Singh",
+    "college_or_org": "PCCOE",
+    "role": "participant",
+    "created_at": "2026-05-11T10:00:00Z"
+  },
+  {
+    "id": "u12",
+    "email": "vedant.joshi@example.com",
+    "name": "Vedant Joshi",
+    "college_or_org": "VIT Pune",
+    "role": "participant",
+    "created_at": "2026-05-12T10:00:00Z"
+  },
+  {
+    "id": "u13",
+    "email": "meera.khan@example.com",
+    "name": "Meera Khan",
+    "college_or_org": "COEP Pune",
+    "role": "participant",
+    "created_at": "2026-05-13T10:00:00Z"
+  },
+  {
+    "id": "u14",
+    "email": "ananya.reddy@example.com",
+    "name": "Ananya Reddy",
+    "college_or_org": "DY Patil",
+    "role": "participant",
+    "created_at": "2026-05-14T10:00:00Z"
+  },
+  {
+    "id": "u15",
+    "email": "harsh.deshmukh@example.com",
+    "name": "Harsh Deshmukh",
+    "college_or_org": "MIT-WPU",
+    "role": "participant",
+    "created_at": "2026-05-15T10:00:00Z"
+  }
+]
