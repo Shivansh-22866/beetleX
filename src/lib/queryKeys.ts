@@ -17,4 +17,6 @@ export const queryKeys = {
   announcements: [
     "announcements",
   ],
+
+  judges: ["judges"],
 };

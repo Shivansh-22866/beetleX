@@ -1,11 +1,30 @@
-import React from 'react'
+import { useState } from 'react'
+import { useSubmitProject } from '../hooks/useProjects';
 
-type Props = {}
+const SubmissionPage = () => {
+  const submitProject =
+    useSubmitProject();
 
-const SubmissionPage = (props: Props) => {
+  const [projectId] =
+    useState("project-1");
+
   return (
-    <div>SubmissionPage</div>
-  )
+    <div>
+      <h1>
+        Submit Project
+      </h1>
+
+      <button
+        onClick={() =>
+          submitProject.mutate(
+            projectId
+          )
+        }
+      >
+        Submit
+      </button>
+    </div>
+  );
 }
 
 export default SubmissionPage

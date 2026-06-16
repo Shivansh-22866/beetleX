@@ -1,6 +1,9 @@
 export interface Registration {
   id: string;
   user_id: string;
+  name: string;
+  college: string;
+  team_name: string;
   event_id: string;
   team_id?: string;
   track_id: string;
